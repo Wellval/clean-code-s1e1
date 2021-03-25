@@ -139,7 +139,7 @@ input[type="text"] {
 }
 
 /* Completed */
-#comp-tasks label {
+#completed__tasks label {
   text-decoration: line-through;
   color: #888;
 }
