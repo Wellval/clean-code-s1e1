@@ -112,19 +112,19 @@ li > * {
   vertical-align: middle;
 }
 
-li > input[type="checkbox"] {
+input[type="checkbox"] {
   margin: 0 10px;
 }
-li > label {
+label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
-li >    input[type="text"] {
+input[type="text"] {
   width: 226px;
 }
-li > .delete:hover {
+.delete:hover {
   color: #cf2323;
 }
 .delete img {
