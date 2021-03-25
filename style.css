@@ -93,8 +93,9 @@ label[for="new-task"] {
   display: block;
   margin: 0 0 20px;
 }
-#new-task {
+input#new-task {
   width: 318px;
+  /* display: block; */
 }
 p > button:hover {
   color: #0fc57c;
@@ -145,7 +146,7 @@ input[type="text"] {
 }
 
 /* Edit Task */
-input[type=text] {
+ul li input[type=text] {
   display: none;
 }
 
